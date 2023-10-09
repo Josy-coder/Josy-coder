@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josy-coder&label=Profile%20views&color=0e75b6&style=flat" alt="josy-coder" /> </p>
 
-## 🗒️ Answer
+## 🗒️ About Me
 
 - 🔭 I’m currently working on making clones of popular platforms to build up my portfolio.
 - 🌱 I’m currently learning coding in blockchain and crypto.
