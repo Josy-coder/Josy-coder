@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Josy-coder's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josy-coder)](https://github.com/Josy-coder/github-readme-stats)
+![Josy-coder's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josy-coder&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Josy-coder's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josy-coder&show_icons=true)
