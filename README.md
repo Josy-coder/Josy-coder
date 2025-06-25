@@ -16,7 +16,7 @@ When I’m not coding, I am trying to overtake AI in problem-solving (still codi
 - **Frameworks**: Next.js, Express, React, Svelte (currently exploring)  
 - **ORMs**: Prisma (leaning towards this), Drizzle  
 - **Cloud**: AWS, Google Cloud  
-- **Databases & Tools**: PostgreSQL, Redis, Docker, Git
+- **Databases & Tools**: PostgreSQL, Convex, Redis, Docker, Git
 
 ---
 
@@ -41,7 +41,6 @@ When I’m not coding, I am trying to overtake AI in problem-solving (still codi
 
 ## 🤝 Let’s Connect
 
-- 📫 Email: [josekecha@keemail.me](mailto:josekecha@keemail.me)  
 - 📱 WhatsApp: [+250 722 360 740](https://wa.me/250722360740)  
 - 😄 Pronouns: He/Him
 
