@@ -42,7 +42,6 @@ When I’m not coding, I am trying to overtake AI in problem-solving (still codi
 ## 🤝 Let’s Connect
 
 - 📱 WhatsApp: [+250 722 360 740](https://wa.me/250722360740)  
-- 😄 Pronouns: He/Him
 
 ---
 
