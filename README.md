@@ -12,22 +12,10 @@ When I’m not coding, I am trying to overtake AI in problem-solving (still codi
 
 ## 🚀 Technologies I use day-to-day
 
-- **Languages**: TypeScript, Go, JavaScript  
-- **Frameworks**: Next.js, Express, React, Svelte (currently exploring)  
-- **ORMs**: Prisma (leaning towards this), Drizzle  
+- **Languages**: TypeScript, Go, JavaScript, Python  
+- **Frameworks**: Next.js, Express, React, Svelte, Django, FastAPI
 - **Cloud**: AWS, Google Cloud  
-- **Databases & Tools**: PostgreSQL, Convex, Redis, Docker, Git
-
----
-
-## 🌍 Recent Work Highlights
-
-- 🛰️ Frontend dev for a **Climate Information System** (React) – Musanze District + GanzAfrica  
-- 🌾 Contributed to **AMIS**, an agricultural management platform (Next.js) – Rwanda Ministry of Agriculture  
-- 👁️ Built parts of a **Face Recognition PWA** for government services – Papua New Guinea  
-- 🗂️ Worked on **Data Ward Bucket**, a public request system – Papua New Guinea  
-- 💼 Developed an internal tool for **Once Upon a Wish Travel** (UK) to manage 1000+ agent invoices  
-- 🧠 Built and refactored **Irankhub v1 & v2** shifting from Go+TS to full TS for v2 - iDebate Rwanda
+- **Databases & Tools**: PostgreSQL, MongoDB, MySQL, Convex, Redis, Docker, Git
 
 ---
 
@@ -36,12 +24,6 @@ When I’m not coding, I am trying to overtake AI in problem-solving (still codi
 - Building my **personal site + blog** to talk about dev-life things like:  
   *“Why I moved from Go to TypeScript for IrankHub (when the trend says otherwise)”*
 - Looking for **cool side projects** to finally use **Svelte** in something serious.
-
----
-
-## 🤝 Let’s Connect
-
-- 📱 WhatsApp: [+250 722 360 740](https://wa.me/250722360740)  
 
 ---
 
